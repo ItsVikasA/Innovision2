@@ -17,7 +17,7 @@ const Page = async () => {
         style={{ padding: "56.25% 0 0 0", position: "relative" }}
       >
         <iframe
-          src="https://www.dailymotion.com/embed/video/x9ste7y"
+          src="https://www.dailymotion.com/embed/video/x9sz42m"
           frameBorder="0"
           allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media"
           style={{
